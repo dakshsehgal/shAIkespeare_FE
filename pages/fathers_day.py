@@ -3,8 +3,9 @@ import time
 import requests
 from utils.audio import *
 from utils.preprocessing import *
+from PIL import Image
 
-play, names = preprocess_play("assets/TestPlay.csv")
+play, names = preprocess_play("assets/FathersDay.csv")
 
 colors = ['violet', 'orange', 'blue', 'red', 'green']
 name_to_color = {}
@@ -17,6 +18,10 @@ play_title = "Father's Day"
 play_author = "D. M. Larson"
 st.markdown(f"<h1 style='text-align: center; color: white;'>{play_title}</h1>", unsafe_allow_html=True)
 st.markdown(f"<h5 style='text-align: center; color: white;'>{play_author}</h5>", unsafe_allow_html=True)
+
+
+initial_img = Image.open('images/meeting.png')
+ai_img = st.image(initial_img)
 
 character_1 = st.markdown('')
 quote_1 = st.markdown('')

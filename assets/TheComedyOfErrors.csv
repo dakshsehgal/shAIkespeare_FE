@@ -1,0 +1,160 @@
+Character,Line,Gender,Emotion
+NARRATOR,"Egeon, a merchant from Syracusae, is arrested for having illegally entered Ephesus. He tells the story of how he lost his wife and an infant son; the remaining identical-twin son grew up and set out to find his lost brother; Egeon in turn journeyed in search of the son he had raised. His journey has brought him to Ephesus. Now Egeon is given until the end of the day to raise ransom money. If he fails, he will be executed.Enter Solinus the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other Attendants.",Male,Positive
+EGEON,"Proceed, Solinus, to procure my fall, And by the doom of death end woes and all.",Female,Positive
+DUKE,"Merchant of Syracusa, plead no more.",Female,Positive
+DUKE,I am not partial to infringe our laws.,Female,Negative
+DUKE,The enmity and discord which of late,Female,Positive
+DUKE,Sprung from the rancorous outrage of your duke,Female,Negative
+DUKE,"To merchants, our well-dealing countrymen,",Female,Negative
+DUKE,"Who, wanting guilders to redeem their lives,",Female,Negative
+DUKE,"Have sealed his rigorous statutes with their bloods,",Female,Negative
+DUKE,Excludes all pity from our threat’ning looks.,Female,Neutral
+DUKE,For since the mortal and intestine jars,Female,Negative
+DUKE,"’Twixt thy seditious countrymen and us,",Female,Positive
+DUKE,"It hath in solemn synods been decreed,",Female,Negative
+DUKE,"Both by the Syracusians and ourselves,",Female,Negative
+DUKE,To admit no traffic to our adverse towns.,Female,Neutral
+DUKE,"Nay, more, if any born at Ephesus",Female,Negative
+DUKE,Be seen at Syracusian marts and fairs;,Female,Positive
+DUKE,"Again, if any Syracusian born",Female,Negative
+DUKE,"Come to the bay of Ephesus, he dies,",Female,Positive
+DUKE,"His goods confiscate to the Duke’s dispose,",Female,Positive
+DUKE,Unless a thousand marks be levièd,Female,Positive
+DUKE,To quit the penalty and to ransom him.,Female,Negative
+DUKE,"Thy substance, valued at the highest rate,",Female,Positive
+DUKE,Cannot amount unto a hundred marks;,Female,Negative
+DUKE,Therefore by law thou art condemned to die.,Female,Positive
+EGEON,"Yet this my comfort: when your words are done,",Female,Negative
+EGEON,My woes end likewise with the evening sun.,Female,Negative
+DUKE,"Well, Syracusian, say in brief the cause",Female,Negative
+DUKE,Why thou departedst from thy native home,Female,Positive
+DUKE,And for what cause thou cam’st to Ephesus.,Female,Neutral
+EGEON,A heavier task could not have been imposed,Female,Negative
+EGEON,Than I to speak my griefs unspeakable;,Female,Neutral
+EGEON,"Yet, that the world may witness that my end",Female,Negative
+EGEON,"Was wrought by nature, not by vile offense,",Female,Negative
+EGEON,I’ll utter what my sorrow gives me leave.,Female,Negative
+EGEON,"In Syracusa was I born, and wed",Female,Neutral
+EGEON,"Unto a woman happy but for me,",Female,Negative
+EGEON,"And by me, had not our hap been bad.",Female,Negative
+EGEON,With her I lived in joy. Our wealth increased,Female,Positive
+EGEON,By prosperous voyages I often made,Female,Negative
+EGEON,"To Epidamium, till my factor’s death",Female,Positive
+EGEON,And the great care of goods at random left,Female,Positive
+EGEON,Drew me from kind embracements of my spouse;,Female,Neutral
+EGEON,From whom my absence was not six months old,Female,Neutral
+EGEON,Before herself—almost at fainting under,Female,Negative
+EGEON,The pleasing punishment that women bear—,Female,Positive
+EGEON,Had made provision for her following me,Female,Neutral
+EGEON,And soon and safe arrivèd where I was.,Female,Negative
+EGEON,There had she not been long but she became,Female,Neutral
+EGEON,"A joyful mother of two goodly sons,",Female,Positive
+EGEON,"And, which was strange, the one so like the other",Female,Positive
+EGEON,As could not be distinguished but by names.,Female,Positive
+EGEON,"That very hour, and in the selfsame inn,",Female,Positive
+EGEON,A mean woman was deliverèd,Female,Neutral
+EGEON,"Of such a burden, male twins, both alike.",Female,Positive
+EGEON,"Those, for their parents were exceeding poor,",Female,Positive
+EGEON,I bought and brought up to attend my sons.,Female,Negative
+EGEON,"My wife, not meanly proud of two such boys,",Female,Negative
+EGEON,Made daily motions for our home return.,Female,Neutral
+EGEON,"Unwilling, I agreed. Alas, too soon",Female,Negative
+EGEON,We came aboard.,Female,Negative
+EGEON,A league from Epidamium had we sailed,Female,Positive
+EGEON,Before the always-wind-obeying deep,Female,Positive
+EGEON,Gave any tragic instance of our harm;,Female,Neutral
+EGEON,"But longer did we not retain much hope,",Female,Neutral
+EGEON,For what obscurèd light the heavens did grant,Female,Positive
+EGEON,Did but convey unto our fearful minds,Female,Neutral
+EGEON,"A doubtful warrant of immediate death,",Female,Neutral
+EGEON,"Which though myself would gladly have embraced,",Female,Negative
+EGEON,"Yet the incessant weepings of my wife,",Female,Negative
+EGEON,"Weeping before for what she saw must come,",Female,Negative
+EGEON,"And piteous plainings of the pretty babes,",Female,Neutral
+EGEON,"That mourned for fashion, ignorant what to fear,",Female,Positive
+EGEON,Forced me to seek delays for them and me.,Female,Positive
+EGEON,"And this it was, for other means was none:",Female,Neutral
+EGEON,The sailors sought for safety by our boat,Female,Positive
+EGEON,"And left the ship, then sinking-ripe, to us.",Female,Negative
+EGEON,"My wife, more careful for the latter-born,",Female,Negative
+EGEON,"Had fastened him unto a small spare mast,",Female,Neutral
+EGEON,Such as seafaring men provide for storms.,Female,Negative
+EGEON,"To him one of the other twins was bound,",Female,Negative
+EGEON,Whilst I had been like heedful of the other.,Female,Negative
+EGEON,"The children thus disposed, my wife and I,",Female,Negative
+EGEON,"Fixing our eyes on whom our care was fixed,",Female,Negative
+EGEON,Fastened ourselves at either end the mast,Female,Positive
+EGEON,"And, floating straight, obedient to the stream,",Female,Negative
+EGEON,"Was carried towards Corinth, as we thought.",Female,Negative
+EGEON,"At length the sun, gazing upon the earth,",Female,Negative
+EGEON,"Dispersed those vapors that offended us,",Female,Positive
+EGEON,And by the benefit of his wished light,Female,Negative
+EGEON,"The seas waxed calm, and we discoverèd",Female,Positive
+EGEON,"Two ships from far, making amain to us,",Female,Neutral
+EGEON,"Of Corinth that, of Epidaurus this.",Female,Negative
+EGEON,"But ere they came—O, let me say no more!",Female,Negative
+EGEON,Gather the sequel by that went before.,Female,Positive
+DUKE,"Nay, forward, old man. Do not break off so,",Female,Neutral
+DUKE,For we may pity though not pardon thee.,Female,Neutral
+EGEON,"O, had the gods done so, I had not now",Female,Positive
+EGEON,Worthily termed them merciless to us.,Female,Neutral
+EGEON,"For, ere the ships could meet by twice five leagues,",Female,Neutral
+EGEON,"We were encountered by a mighty rock,",Female,Neutral
+EGEON,"Which being violently borne upon,",Female,Neutral
+EGEON,Our helpful ship was splitted in the midst;,Female,Neutral
+EGEON,"So that, in this unjust divorce of us,",Female,Neutral
+EGEON,Fortune had left to both of us alike,Female,Neutral
+EGEON,"What to delight in, what to sorrow for.",Female,Neutral
+EGEON,"Her part, poor soul, seeming as burdenèd",Female,Neutral
+EGEON,"With lesser weight, but not with lesser woe,",Female,Positive
+EGEON,"Was carried with more speed before the wind,",Female,Negative
+EGEON,And in our sight they three were taken up,Female,Neutral
+EGEON,"By fishermen of Corinth, as we thought.",Female,Positive
+EGEON,"At length, another ship had seized on us",Female,Negative
+EGEON,"And, knowing whom it was their hap to save,",Female,Positive
+EGEON,"Gave healthful welcome to their shipwracked guests,",Female,Neutral
+EGEON,And would have reft the fishers of their prey,Female,Positive
+EGEON,Had not their bark been very slow of sail;,Female,Positive
+EGEON,And therefore homeward did they bend their course.,Female,Negative
+EGEON,"Thus have you heard me severed from my bliss,",Female,Negative
+EGEON,That by misfortunes was my life prolonged,Female,Neutral
+EGEON,To tell sad stories of my own mishaps.,Female,Neutral
+DUKE,"And for the sake of them thou sorrowest for,",Female,Neutral
+DUKE,Do me the favor to dilate at full,Female,Negative
+DUKE,What have befall’n of them and thee till now.,Female,Positive
+EGEON,"My youngest boy, and yet my eldest care,",Female,Neutral
+EGEON,At eighteen years became inquisitive,Female,Neutral
+EGEON,"After his brother, and importuned me",Female,Positive
+EGEON,"That his attendant—so his case was like,",Female,Neutral
+EGEON,"Reft of his brother, but retained his name—",Female,Negative
+EGEON,"Might bear him company in the quest of him,",Female,Negative
+EGEON,"Whom whilst I labored of a love to see,",Female,Positive
+EGEON,I hazarded the loss of whom I loved.,Female,Negative
+EGEON,"Five summers have I spent in farthest Greece,",Female,Neutral
+EGEON,"Roaming clean through the bounds of Asia,",Female,Neutral
+EGEON,"And, coasting homeward, came to Ephesus,",Female,Negative
+EGEON,"Hopeless to find, yet loath to leave unsought",Female,Positive
+EGEON,Or that or any place that harbors men.,Female,Negative
+EGEON,But here must end the story of my life;,Female,Negative
+EGEON,And happy were I in my timely death,Female,Negative
+EGEON,Could all my travels warrant me they live.,Female,Neutral
+DUKE,"Hapless Egeon, whom the fates have marked",Female,Positive
+DUKE,"To bear the extremity of dire mishap,",Female,Neutral
+DUKE,"Now, trust me, were it not against our laws,",Female,Neutral
+DUKE,"Against my crown, my oath, my dignity,",Female,Positive
+DUKE,"Which princes, would they, may not disannul,",Female,Neutral
+DUKE,My soul should sue as advocate for thee.,Female,Positive
+DUKE,"But though thou art adjudgèd to the death,",Female,Neutral
+DUKE,And passèd sentence may not be recalled,Female,Negative
+DUKE,"But to our honor’s great disparagement,",Female,Neutral
+DUKE,Yet will I favor thee in what I can.,Female,Negative
+DUKE,"Therefore, merchant, I’ll limit thee this day",Female,Neutral
+DUKE,To seek thy life by beneficial help.,Female,Negative
+DUKE,Try all the friends thou hast in Ephesus;,Female,Negative
+DUKE,"Beg thou, or borrow, to make up the sum,",Female,Negative
+DUKE,"And live. If no, then thou art doomed to die.—",Female,Neutral
+DUKE,"Jailer, take him to thy custody.",Female,Negative
+JAILER,"I will, my lord.",Female,Positive
+EGEON,"Hopeless and helpless doth Egeon wend,",Female,Positive
+EGEON,But to procrastinate his lifeless end.,Female,Neutral
+NARRATOR,They exit.,Male,Negative
