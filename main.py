@@ -1,31 +1,7 @@
 import streamlit as st
 from streamlit.components.v1 import html
 from PIL import Image
-
-def nav_page(page_name, timeout_secs=3):
-    nav_script = """
-        <script type="text/javascript">
-            function attempt_nav_page(page_name, start_time, timeout_secs) {
-                var links = window.parent.document.getElementsByTagName("a");
-                for (var i = 0; i < links.length; i++) {
-                    if (links[i].href.toLowerCase().endsWith("/" + page_name.toLowerCase())) {
-                        links[i].click();
-                        return;
-                    }
-                }
-                var elasped = new Date() - start_time;
-                if (elasped < timeout_secs * 1000) {
-                    setTimeout(attempt_nav_page, 100, page_name, start_time, timeout_secs);
-                } else {
-                    alert("Unable to navigate to page '" + page_name + "' after " + timeout_secs + " second(s).");
-                }
-            }
-            window.addEventListener("load", function() {
-                attempt_nav_page("%s", new Date(), %d);
-            });
-        </script>
-    """ % (page_name, timeout_secs)
-    html(nav_script)
+from utils.streamlit_utils import *
 
 button_style = """<style>
 
@@ -61,7 +37,7 @@ background: black;
 
 """
 st.markdown(button_style, unsafe_allow_html=True)
-comedy_of_errors = Image.open('images/macbeth_long.jpg')
+comedy_of_errors = Image.open('images/comedy.jpg')
 
 st.image(comedy_of_errors)
 
@@ -71,7 +47,7 @@ if c3.button("The Comedy of Errors"):
     nav_page("comedy_of_errors")
 
 
-image = Image.open('images/kinglear.jpg')
+image = Image.open('images/father.jpg')
 st.image(image)
 
 d1, d2, d3, d4, d5 = st.columns(5)

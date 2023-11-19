@@ -6,7 +6,7 @@ from utils.preprocessing import *
 
 play, names = preprocess_play("assets/TestPlay.csv")
 
-colors = ['violet', 'green', 'blue', 'red', 'orange']
+colors = ['violet', 'orange', 'blue', 'red', 'green']
 name_to_color = {}
 i = 0
 for name in names:
@@ -14,9 +14,9 @@ for name in names:
     i += 1
 
 play_title = "Father's Day"
-
-st.markdown("<h1 style='text-align: center; color: white;'>Father's Day</h1>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: white;'>William Shakespeare</h5>", unsafe_allow_html=True)
+play_author = "D. M. Larson"
+st.markdown(f"<h1 style='text-align: center; color: white;'>{play_title}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h5 style='text-align: center; color: white;'>{play_author}</h5>", unsafe_allow_html=True)
 
 character_1 = st.markdown('')
 quote_1 = st.markdown('')

@@ -14,9 +14,10 @@ for name in names:
     i += 1
 
 play_title = "The Comedy of Errors"
+play_author = "William Shakespeare"
 
-st.markdown("<h1 style='text-align: center; color: white;'>Father's Day</h1>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: white;'>William Shakespeare</h5>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='text-align: center; color: white;'>{play_title}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h5 style='text-align: center; color: white;'>{play_author}</h5>", unsafe_allow_html=True)
 
 character_1 = st.markdown('')
 quote_1 = st.markdown('')
