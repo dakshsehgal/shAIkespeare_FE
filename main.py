@@ -61,15 +61,14 @@ background: black;
 
 """
 st.markdown(button_style, unsafe_allow_html=True)
-tempest = Image.open('images/macbeth_long.jpg')
-# convert to href clickable image
+comedy_of_errors = Image.open('images/macbeth_long.jpg')
 
-st.image(tempest)
+st.image(comedy_of_errors)
 
 c1,c2,c3,c4,c5 = st.columns(5)
 
-if c3.button("macbeth"):
-    nav_page("macbeth")
+if c3.button("The Comedy of Errors"):
+    nav_page("comedy_of_errors")
 
 
 image = Image.open('images/kinglear.jpg')
@@ -77,5 +76,5 @@ st.image(image)
 
 d1, d2, d3, d4, d5 = st.columns(5)
 # st.markdown('<span id="button-after"></span>', unsafe_allow_html=True)
-if d3.button("The Tempest"):
-    nav_page("tempest")
+if d3.button("Father's Day"):
+    nav_page("fathers_day")
