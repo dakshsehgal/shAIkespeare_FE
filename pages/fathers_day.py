@@ -48,12 +48,12 @@ for i in range(1, len(play)):
         "line_no": counter
     }
     
-    x = requests.post(url, data = dataToSend)
+    audio = requests.post(url, data = dataToSend)
     counter += 1
     time.sleep(1)
     dialogues[rem][1].markdown(item[1])
-    autoplay_audio(x.content)
-    time.sleep(get_audio_duration(x.content))
+    autoplay_audio(audio.content)
+    time.sleep(get_audio_duration(audio.content))
 
     if rem == 2:
         for dialog in dialogues:

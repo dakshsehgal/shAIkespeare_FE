@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit.components.v1 import html
 from PIL import Image
 from utils.streamlit_utils import *
 
@@ -53,6 +52,5 @@ image = Image.open('images/father.jpg')
 st.image(image)
 
 d1, d2, d3, d4, d5, d6 = st.columns(6)
-# st.markdown('<span id="button-after"></span>', unsafe_allow_html=True)
 if d3.button("Father's Day"):
     nav_page("fathers_day")
